@@ -1,1 +1,2 @@
-# Tensor_Murder
+# Tensor_Datathon
+problem statement - “Last year, an alarming increase in homicides left communities reeling as officials searched for answers. Over the past few decades, the rate at which this horrendous crime is increasing is alarming, and Governments and Police all over have been looking for insights and solutions to help them understand the situation more.” Can you provide a detailed analysis of various attributes leading to this atrocious crime globally, as well as data-backed solutions to curb the same? Feel free to approach the problem as a Global and general issue, or delve into specifics about the crime of murder 
